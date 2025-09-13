@@ -1,0 +1,25 @@
+img{
+    height: 200x;
+    width: 200px;
+}
+#travel{
+    background-image:url("https://images.pexels.com/photos/33846425/pexels-photo-33846425.png")
+}
+body{
+    background-image: url("https://tse1.mm.bing.net/th/id/OIP.P6eVDBloiFX4ulPrYlAYUgHaDr?rs=1&pid=ImgDetMain&o=7&rm=3");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+div{
+    flex-direction: row;
+    flex-flow: wrap;
+    text-align: justify;
+    border-image: space;
+    
+}
